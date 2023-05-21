@@ -48,11 +48,45 @@
 }
 
 .up{
-    background-color: blue;
+    background-color: #3882f6;
     color: #e5e7eb;
     height: 40px;
-    width: 80px;
+    width: 120px;
+    border-radius: 10px;
 }
 
+.h2{
+    text-align: center;
+    padding: 30px;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
 
+.three{
+    display: flex;
+    align-self: center;
+}
+
+.threeone{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.round-box{
+    border-radius: 10px;
+    min-height: 140px;
+    min-width: 60px;
+    border: 4px solid #3882f6;
+    margin-left: 40px;
+    margin-right: 40px;
+    flex-shrink: 0;
+    flex-grow: 0;
+    flex-basis: auto;
+}
+
+.subtext{
+    text-align: center;
+}
 
