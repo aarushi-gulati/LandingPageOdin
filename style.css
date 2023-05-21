@@ -129,3 +129,12 @@
 p{
     color: #e5e7eb;
 }
+
+.footer{
+    background:#1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #f9faf8;
+    padding: 20px;
+}
