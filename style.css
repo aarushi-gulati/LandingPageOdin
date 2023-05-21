@@ -1,0 +1,58 @@
+.one{
+    display: flex;
+    background: #1F2937;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+}
+
+#h-logo{
+    font-size: 24px;
+    color: #f9faf8;
+    margin-right: auto;
+}
+
+#link{
+    font-size: 18px;
+    color: #e5e7eb;
+    margin-left: 30px;
+}
+
+.two{
+    display: flex;
+    background: #1F2937;
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+}
+
+#main{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.first{
+    display: flex;
+    flex-direction: column;
+    font-family: "Roboto", sans-serif;
+}
+
+.twotwo{
+    background: #e5e7eb;
+    min-width: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.up{
+    background-color: blue;
+    color: #e5e7eb;
+    height: 40px;
+    width: 80px;
+}
+
+
+
