@@ -88,5 +88,44 @@
 
 .subtext{
     text-align: center;
+    color: black;
 }
 
+.third{
+    background: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+}
+
+.quote{
+    font-size: 36px;
+    color: #1F2937;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.thor{
+    align-self: flex-end;
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: 100px;
+    margin-bottom: 25px;
+}
+
+.fourth{
+    background:#3882f6;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 100px;
+}
+
+.call{
+    font-weight: bold;
+    color:#f9faf8
+}
+
+p{
+    color: #e5e7eb;
+}
